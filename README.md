@@ -30,7 +30,7 @@ Algoritmanın bulduğu çözümün geçerli olması için sağlanması gereken i
 ## 3. Kullanılan Genetik Algoritma Stratejisi
 
 | **Kodlama** | Gerçek Değerli | Sürekli değişkenlerle çalışmak. |
-| **Seçim** | Turnuva Seçimi | Popülasyondan en uygun bireyleri seçmek. |
+| **Seçim** | Rulet Seçimi | Popülasyondan en uygun bireyleri seçmek. |
 | **Çaprazlama** | Aritmetik Çaprazlama | Ebeveynlerin genlerini ağırlıklı ortalama ile birleştirmek. |
 | **Mutasyon** | Gauss Mutasyonu | Lokal optimumdan kaçınmak için gürültü eklemek ve sınır kontrolü yapmak. |
 | **Kısıt Yönetimi** | **Hard Constraint Handling** | Kısıt ihlalinde, `uygunluk_hesapla` fonksiyonunda çözüme en kötü skor (`-1000.0`) atanmıştır. Bu sayede, Seçim operatörü geçersiz çözümleri otomatik olarak elemiştir. |
