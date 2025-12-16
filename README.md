@@ -1,4 +1,4 @@
-# 🤖 BLG-307 Yapay Zeka Sistemleri - Proje 1: Kısıtlı Optimizasyon (Senaryo 4)
+# 🤖 BLG-307 Yapay Zeka Sistemleri - Proje 1 - (Senaryo 4)
 ---
 
 ## 1. Proje ve Öğrenci Bilgileri
